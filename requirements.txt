@@ -1,0 +1,7 @@
+pandas
+scikit-learn
+joblib
+streamlit>=1.31.0
+matplotlib
+seaborn
+numpy
